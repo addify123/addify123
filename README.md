@@ -8,7 +8,7 @@
 
 - My product to set tax exemption rule in  Prestashop:  <a href="https://addify.co/product/prestashop-tax-exempt/">Prestashop Tax Exempt Module</a>
 
-- My product for seting reserve product option in WooCommerce <a href="https://addify.co/product/woocommerce-reserve-stock-status/">WooCommerce Reserve Stock Plugin</a>
+- My product for seting reserve product option in WooCommerce: <a href="https://addify.co/product/woocommerce-reserve-stock-status/">WooCommerce Reserve Stock Plugin</a>
 
 
 <!---
