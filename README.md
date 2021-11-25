@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on html
 - 📫 How to reach me you can't
 
-- My product to set quantity based rules in prestashop: <a href="https://addify.co/product/prestashop-advanced-product-quantity/">Prestashop advance product quantity module</a>
+- My product to set quantity based rules in prestashop: <a href="https://addify.co/product/prestashop-advanced-product-quantity/">Prestashop advanced product quantity module</a>
 
 - My product to set tax exemption rule in  Prestashop:  <a href="https://addify.co/product/prestashop-tax-exempt/">Prestashop Tax Exempt Module</a>
 
